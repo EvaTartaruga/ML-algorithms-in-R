@@ -2,5 +2,5 @@
 Collection of ML algorithms in R programming with explanation.
 
 
-Supervised ML
+### Supervised ML
  - Linear Regression and desing matrix (Desing_matrix.R)
